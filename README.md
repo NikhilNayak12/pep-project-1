@@ -32,6 +32,13 @@ A modern, responsive portfolio website showcasing my work as a web developer and
 ### Mobile Responsive
 ![Mobile View](screenshots/mobile.png)
 
+### Pull Requests
+![Pull Requests](screenshots/pull-request1.png)
+
+![Pull Requests](screenshots/pull-request2.png)
+
+![Pull Requests](screenshots/pull-request3.png)
+
 
 ## 🎓 What I Learned
 
